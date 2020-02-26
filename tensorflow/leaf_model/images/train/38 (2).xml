@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>38 (2).jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\38 (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2795</width>
+		<height>4175</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>unhealthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>775</xmin>
+			<ymin>1731</ymin>
+			<xmax>2069</xmax>
+			<ymax>3900</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>unhealthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>575</ymin>
+			<xmax>1463</xmax>
+			<ymax>1850</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>unhealthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1582</xmin>
+			<ymin>206</ymin>
+			<xmax>2719</xmax>
+			<ymax>1656</ymax>
+		</bndbox>
+	</object>
+</annotation>
