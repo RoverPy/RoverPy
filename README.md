@@ -2,7 +2,7 @@
 
 Taking Agriculture to a whole new level!
 
-RoverPy is an advanced Rover which runs on a Arduino and has Raspberry Pi integrated on it. With the help of the computational power of the Raspberry Pi, the rover is able to detect the health of plant leaves, which can be seen on a live webcam feed.
+RoverPy is an advanced Rover which runs on a Arduino and has Raspberry Pi integrated on it. With the help of the computational power of the Raspberry Pi, the rover is able to detect the health of plant leaves, which can be seen on the phone through the live camera feed.
 
 This project is developed by the students of NMIMS MPSTME.
 
